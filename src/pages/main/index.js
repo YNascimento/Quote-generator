@@ -36,7 +36,10 @@ export default class Main extends Component{
                 </div>
                 
                 <div id="buttons">
-                    <button className="button" id="new-quote" onClick={this.loadQuote.bind(this)}>New Quote</button>
+                    <button className="button" id="new-quote" onClick={this.loadQuote.bind(this)}>Change Quote</button>
+
+                    <a href="/insert" className="button">Insert New Quote</a>
+
                     <a href="/twitter.com/intent/tweet" className="button" id="tweet-quote" target="_blank">
                     Tweet Quote
                     </a>

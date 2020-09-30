@@ -1,0 +1,12 @@
+.inputQuote{
+    display: flex;
+    flex-direction: column;
+}
+
+.inputQuote input{
+    margin: 16px;
+    padding: 12px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+}
