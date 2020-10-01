@@ -1,4 +1,4 @@
-#quote-box {
+.box {
     width: 700px;
     height: auto;
     border-radius: 12px;
@@ -9,7 +9,11 @@
     box-shadow: 0 0 5px 0 rgb(54, 3, 3);
 }
 
-#quote-box h4{
+.hide{
+    display: none;
+}
+
+.box h4{
     text-align: center;
     /* margin-left: 16px; */
     font-weight: 400;
