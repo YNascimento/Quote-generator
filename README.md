@@ -16,7 +16,7 @@
 ## About <a name = "about"></a>
 
 This is a simple Front-End Only app using ReactJS to access two pages without reloading the browser. Here we can see Quotes and their Authors that are chosen randomly and
-you can insert new quotes too the list.
+you can insert new quotes to the list.
 
 ## 🔧 Built with <a name = "with"></a>
 
