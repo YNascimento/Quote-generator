@@ -34,6 +34,7 @@ class AddQuote extends Component{
         e.preventDefault()
         const {newQuote, newAuthor} = this.state
         this.props.onCreateNewQuote(newQuote, newAuthor)
+        
     }
     render(){
         return(
